@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_DS7cMHKREemYWbTj-WgGkw" label="etl_lims" description="etl lims" language="java" technicalLabel="ETL_LIMS" author="_DS7cMXKREemYWbTj-WgGkw" productVersion="Talend Cloud Data Integration-7.1.1.20190228_0243-patch" url="{&quot;location&quot;:&quot;https://github.com/rsumardy-zymergen/etl-prod-talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+    <migrationTask xmi:id="_DTCJ4HKREemYWbTj-WgGkw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_DS7cMXKREemYWbTj-WgGkw" login="rsumardy@zymergen.com" firstName="rusdi" lastName="sumardy" type="DI"/>
+</xmi:XMI>
